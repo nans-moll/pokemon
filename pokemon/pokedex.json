@@ -1,0 +1,286 @@
+[
+    {
+      "id": 1,
+      "name": {
+        "nom": "Bulbizarre"
+      },
+      "type": ["Plante", "Poison"],
+      "base": {
+        "HP": 45,
+        "Attaque": 49,
+        "Defense": 49,
+        "Attaque. Sp": 65,
+        "Defense. Sp": 65
+      },
+      "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+      "evolution": { "next": [["2", "Level 16"]] },
+      "profile": {
+        "hauteur": "0.7 m",
+        "poids": "6.9 kg",
+        "capacité": [
+          ["Overgrow", "false"],
+          ["Chlorophyll", "true"]
+        ]
+      },
+      "image": {
+        "images_pokedex":"",
+        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/001.png",
+        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/001.png",
+        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "nom": "Herbizarre"
+      },
+      "type": ["Grass", "Poison"],
+      "base": {
+        "HP": 60,
+        "Attaque": 62,
+        "Defense": 63,
+        "Sp. Attaque": 80,
+        "Sp. Defense": 80
+      },
+      "description": "Il y a un bourgeon sur le dos de ce Pokémon. Pour supporter son poids, les pattes et le tronc de l’Ivysaur deviennent épais et forts. S’il commence à passer plus de temps au soleil, c’est le signe que le bourgeon se transformera bientôt en une grande fleur.",
+      "evolution": { "prev": ["1", "Level 16"], "next": [["3", "Level 32"]] },
+      "profile": {
+        "hauteur": "1 m",
+        "poids": "13 kg",
+        "ability": [
+          ["Overgrow", "false"],
+          ["Chlorophyll", "true"]
+        ]
+      },
+      "image": {
+        "images_pokedex":"",
+        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/002.png",
+        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/002.png",
+        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/002.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "nom": "Florizarre"
+      },
+      "type": ["Grass", "Poison"],
+      "base": {
+        "HP": 80,
+        "Attaque": 82,
+        "Defense": 83,
+        "Sp. Attaque": 100,
+        "Sp. Defense": 100
+      },
+      "description": "Il y a une grande fleur sur le dos de Venusaur. On dit que la fleur prend des couleurs vives si elle reçoit beaucoup de nutrition et de soleil. L’arôme de la fleur apaise les émotions des gens.",
+      "evolution": { "prev": ["2", "Level 32"] },
+      "profile": {
+        "hauteur": "2 m",
+        "poids": "100 kg",
+        "ability": [
+          ["Overgrow", "false"],
+          ["Chlorophyll", "true"]
+        ]
+      },
+      "image": {
+        "images_pokedex":"",
+        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/003.png",
+        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/003.png",
+        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/003.png"
+      }
+    },
+
+
+
+
+
+    {
+        "id": 4,
+        "name": {
+          "french": "Salamèche"
+        },
+        "type": ["feu"],
+        "base": {
+          "HP": 39,
+          "Attaque": 52,
+          "Defense": 43,
+          "Sp. Attaque": 60,
+          "Sp. Defense": 50
+
+        },
+        "description": "La flamme qui brûle au bout de sa queue est une indication de ses émotions. La flamme ondule lorsque Salamèche s'amuse. Si le Pokémon devient énergique, la flamme brûle violemment.",
+        "evolution": { "next": [["5", "Level 16"]] },
+        "profile": {
+          "hauteur": "0.6 m",
+          "poids": "8.5 kg",
+          "ability": [
+            ["Blaze", "false"],
+            ["Solar Power", "true"]
+          ]
+        },
+        "image": {
+
+          "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/004.png",
+          "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/004.png",
+          "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/004.png"
+        }
+      },
+      {
+        "id": 5,
+        "name": {
+          "french": "Reptincel"
+        },
+        "type": ["feu"],
+        "base": {
+          "HP": 58,
+          "Attack": 64,
+          "Defense": 58,
+          "Sp. Attack": 80,
+          "Sp. Defense": 65,
+          "Speed": 80
+        },
+        "type": "Flame Pokémon",
+        "description": "Charmeleon détruit sans pitié ses ennemis à l'aide de ses griffes acérées. S'il rencontre un ennemi puissant, il devient agressif. Dans cet état excité, la flamme au bout de sa queue s'éclaire d'une couleur blanc bleuâtre.",
+        "evolution": { "prev": ["4", "Level 16"], "next": [["6", "Level 36"]] },
+        "profile": {
+          "hauteur": "1.1 m",
+          "poids": "19 kg",
+          "ability": [
+            ["Blaze", "false"],
+            ["Solar Power", "true"]
+          ]
+
+        },
+        "image": {
+          "images_pokedex":"",
+          "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/005.png",
+          "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/005.png",
+          "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/005.png"
+        }
+      },
+      {
+        "id": 6,
+        "name": {
+          "nom": "Dracaufeu"
+        },
+        "type": ["Fire", "Flying"],
+        "base": {
+          "HP": 78,
+          "Attaque": 84,
+          "Defense": 78,
+          "Sp. Attaque": 109,
+          "Sp. Defense": 85
+        },
+        "description": "Charizard vole dans le ciel à la recherche d'adversaires puissants. Il crache un feu d'une telle chaleur qu'il fait fondre tout. Cependant, il ne dirige jamais son souffle ardent sur un adversaire plus faible que lui.",
+        "evolution": { "prev": ["5", "Level 36"] },
+        "profile": {
+          "hauteur": "1.7 m",
+          "poids": "90.5 kg",
+          "ability": [
+            ["Blaze", "false"],
+            ["Solar Power", "true"]
+          ]
+        },
+        "image": {
+          "images_pokedex":"",
+          "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/006.png",
+          "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/006.png",
+          "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+        }
+      },
+
+
+
+
+
+      {
+        "id": 7,
+        "name": {
+          "nom": "Carapuce"
+        },
+        "type": ["eau"],
+        "base": {
+          "HP": 44,
+          "Attaque": 48,
+          "Defense": 65,
+          "Sp. Attaque": 50,
+          "Sp. Defense": 64
+        },
+        "description": "La coquille de Squirtle n’est pas simplement utilisée pour se protéger. La forme arrondie de la coquille et les rainures sur sa surface contribuent à minimiser la résistance dans l'eau, permettant à ce Pokémon de nager à grande vitesse.",
+        "evolution": { "next": [["8", "Level 16"]] },
+        "profile": {
+          "hauteur": "0.5 m",
+          "poids": "9 kg",
+          "ability": [
+            ["Torrent", "false"],
+            ["Rain Dish", "true"]
+          ]
+        },
+        "image": {
+          "images_pokedex":"",
+          "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/007.png",
+          "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/007.png",
+          "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/007.png"
+        }
+      },
+      {
+        "id": 8,
+        "name": {
+          "nom": "Carabaffe"
+        },
+        "type": ["eau"],
+        "base": {
+          "HP": 59,
+          "Attaque": 63,
+          "Defense": 80,
+          "Sp. Attaque": 65,
+          "Sp. Defense": 80
+        },
+        "description": "Sa queue est grande et recouverte d'une fourrure riche et épaisse. La couleur de la queue devient de plus en plus foncée à mesure que Wartortle vieillit. Les rayures sur sa carapace témoignent de la robustesse de ce Pokémon en tant que combattant.",
+        "evolution": { "prev": ["7", "Level 16"], "next": [["9", "Level 36"]] },
+        "profile": {
+          "hauteur": "1 m",
+          "poids": "22.5 kg",
+          "ability": [
+            ["Torrent", "false"],
+            ["Rain Dish", "true"]
+          ]
+        },
+        "image": {
+          "images_pokedex":"",
+          "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/008.png",
+          "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/008.png",
+          "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/008.png"
+        }
+      },
+      {
+        "id": 9,
+        "name": {
+          "nom": "Tortank"
+        },
+        "type": ["eau"],
+        "base": {
+          "HP": 79,
+          "Attaque": 83,
+          "Defense": 100,
+          "Sp. Attaque": 85,
+          "Sp. Defense": 105
+        },
+        "description": "Blastoise a des jets d'eau qui dépassent de sa coquille. Les jets d'eau sont très précis. Ils peuvent tirer des balles depuis l’eau avec suffisamment de précision pour frapper des canettes vides à une distance de plus de 160 pieds.",
+        "evolution": { "prev": ["8", "Level 36"] },
+        "profile": {
+          "hauteur": "1.6 m",
+          "poids": "85.5 kg",
+          "capacité": [
+            ["Torrent", "false"],
+            ["Rain Dish", "true"]
+          ]
+        },
+        "image": {
+          "images_pokedex":"",
+          "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/009.png",
+          "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/009.png",
+          "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/009.png"
+        }
+      }
+    ]
