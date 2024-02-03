@@ -1,0 +1,103 @@
+[
+    {
+      "id": 152,
+      "name": {
+        "nom": "Germignon"
+      },
+      "type": [
+        "Plante"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 65,
+        "Sp. Attack": 49,
+        "Sp. Defense": 65,
+        "Vitesse": 45
+      },
+      "species": "Pokémon Feuille",
+      "description": "Lorsqu'il se bat, Germignon secoue sa feuille pour tenir son ennemi à distance. Un doux parfum s'en dégage également, apaisant les Pokémon qui se battent et créant une atmosphère agréable et amicale.",
+      "evolution": {
+        "next": [
+          [
+            "153",
+            "Level 16"
+          ]
+        ]
+      },
+      "profile": {
+        "hauteur": "0.9 m",
+        "poids": "6.4 kg",
+        "oeuf": [
+          "Monstre",
+          "Plante"
+        ],
+        "capacité": [
+          [
+            "Engrais",
+            false
+          ],
+          [
+            "Feuille Garde",
+            true
+          ]
+        ]
+      },
+      "image": {},
+      "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\152.png",
+      "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\152b.png"
+    },
+    {
+      "id": 153,
+      "name": {
+        "nom": "Macronium"
+      },
+      "type": [
+        "Plante"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 80,
+        "Sp. Attack": 63,
+        "Sp. Defense": 80,
+        "Vitesse": 60
+      },
+      "species": "Pokémon Feuille",
+      "description": "Le cou de Macronium est entouré de nombreuses feuilles. Dans chacune d'elles se trouve une pousse d'arbre. Le parfum de cette pousse donne la pêche aux personnes qui le sentent.",
+      "evolution": {
+        "prev": [
+          "152",
+          "Level 16"
+        ],
+        "next": [
+          [
+            "154",
+            "Level 32"
+          ]
+        ]
+      },
+      "profile": {
+        "hauteur": "1.2 m",
+        "poids": "15.8 kg",
+        "oeuf": [
+          "Monster",
+          "Grass"
+        ],
+        "capacité": [
+          [
+            "Engrais",
+            false
+          ],
+          [
+            "Feuille Garde",
+            true
+          ]
+        ]
+      },
+      "image": {},
+      "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\153.png",
+      "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\153b.png"
+    }
+  ]
+  
