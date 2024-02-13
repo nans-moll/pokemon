@@ -1,0 +1,616 @@
+[
+  {
+    "id": 152,
+    "name": {
+      "nom": "Germignon"
+    },
+    "type": [
+      "Plante"
+    ],
+    "base": {
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 65,
+      "Sp. Attack": 49,
+      "Sp. Defense": 65,
+      "Vitesse": 45
+    },
+    "species": "Pokémon Feuille",
+    "description": "Lorsqu'il se bat, Germignon secoue sa feuille pour tenir son ennemi à distance. Un doux parfum s'en dégage également, apaisant les Pokémon qui se battent et créant une atmosphère agréable et amicale.",
+    "evolution": {
+      "next": [
+        [
+          "153",
+          "Level 16"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "0.9 m",
+      "poids": "6.4 kg",
+      "oeuf": [
+        "Monstre",
+        "Plante"
+      ],
+      "capacité": [
+        [
+          "Engrais",
+          "false"
+        ],
+        [
+          "Feuille Garde",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "image-oeuf": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\152Egg.png",
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\152.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\152b.png"
+  },
+  {
+    "id": 153,
+    "name": {
+      "nom": "Macronium"
+    },
+    "type": [
+      "Plante"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 62,
+      "Defense": 80,
+      "Sp. Attack": 63,
+      "Sp. Defense": 80,
+      "Vitesse": 60
+    },
+    "species": "Pokémon Feuille",
+    "description": "Le cou de Macronium est entouré de nombreuses feuilles. Dans chacune d'elles se trouve une pousse d'arbre. Le parfum de cette pousse donne la pêche aux personnes qui le sentent.",
+    "evolution": {
+      "prev": [
+        "152",
+        "Level 16"
+      ],
+      "next": [
+        [
+          "154",
+          "Level 32"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "1.2 m",
+      "poids": "15.8 kg",
+      "oeuf": [
+        "Monster",
+        "Grass"
+      ],
+      "capacité": [
+        [
+          "Engrais",
+          "false"
+        ],
+        [
+          "Feuille Garde",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\153.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\153b.png"
+  },
+  {
+    "id": 154,
+    "name": {
+      "nom": "Méganium"
+    },
+    "type": [
+      "Plante"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 100,
+      "Sp. Attack": 83,
+      "Sp. Defense": 100,
+      "Vitesse": 80
+    },
+    "species": "Pokémon Herbe",
+    "description": "Le parfum de la fleur de Méganium apaise et calme les esprits. Pendant les combats, ce Pokémon émet son parfum relaxant pour atténuer l'agressivité de l'ennemi.",
+    "evolution": {
+      "prev": [
+        "153",
+        "Level 32"
+      ]
+    },
+    "profile": {
+      "hauteur": "1.8 m",
+      "poids": "100.5 kg",
+      "oeuf": [
+        "Monstre",
+        "Plante"
+      ],
+      "capacité": [
+        [
+          "Engrais",
+          "false"
+        ],
+        [
+          "Feuille Garde",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\154.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\154b.png"
+  },
+
+
+
+  {
+    "id": 252,
+    "name": {
+      "nom": "Arcko"
+    },
+    "type": [
+      "Plante"
+    ],
+    "base": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Sp. Attack": 65,
+      "Sp. Defense": 55,
+      "Vitesse": 70
+    },
+    "description": "Arcko est doté de petits crochets sous les pattes, ce qu'il lui permet de grimper aux murs. Ce Pokémon attaque en frappant ses ennemis avec son épaisse queue.",
+    "evolution": {
+      "next": [
+        [
+          "253",
+          "Level 16"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "0.5 m",
+      "poids": "5 kg",
+      "oeuf": [
+        "Monstre",
+        "Draconique"
+      ],
+      "capacité": [
+        [
+          "Engrais",
+          "false"
+        ],
+        [
+          "Délestage",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "image-oeuf": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\252Egg.png",
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\252.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\252b.png"
+  },
+  {
+    "id": 253,
+    "name": {
+      "nom": "Massko"
+    },
+    "type": [
+      "Plante"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 65,
+      "Defense": 45,
+      "Sp. Attack": 85,
+      "Sp. Defense": 65,
+      "Vitesse": 95
+    },
+    "description": "Les feuilles qui poussent sur le corps de Massko sont bien pratiques lorsqu'il veut se camoufler dans la forêt. Ce Pokémon est passé maître dans l'art de grimper aux arbres.",
+    "evolution": {
+      "prev": [
+        "252",
+        "Level 16"
+      ],
+      "next": [
+        [
+          "254",
+          "Level 36"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "0.9 m",
+      "poids": "21.6 kg",
+      "oeuf": [
+        "Monstre",
+        "Draconique"
+      ],
+      "capacité": [
+        [
+          "Engrais",
+          "false"
+        ],
+        [
+          "Délestage",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\253.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\253b.png"
+  },
+  {
+    "id": 254,
+    "name": {
+      "nom": "Jungko"
+    },
+    "type": [
+      "Plante"
+    ],
+    "base": {
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 65,
+      "Sp. Attack": 105,
+      "Sp. Defense": 85,
+      "Vitesse": 120
+    },
+    "description": "Les feuilles qui poussent sur le corps de Jungko sont extrêmement tranchantes. Ce Pokémon est très agile. Il bondit de branche en branche avant de sauter sur son ennemi.",
+    "evolution": {
+      "prev": [
+        "253",
+        "Level 36"
+      ]
+    },
+    "profile": {
+      "hauteur": "1.7 m",
+      "poids": "52.2 kg",
+      "oeuf": [
+        "Monster",
+        "Dragon"
+      ],
+      "capacité": [
+        [
+          "Engrais",
+          "false"
+        ],
+        [
+          "Délestage",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\254.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\254b.png"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 155,
+    "name": {
+      "nom": "Héricendre"
+    },
+    "type": [
+      "Feu"
+    ],
+    "base": {
+      "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
+      "Vitesse": 65
+    },
+    "description": "Héricendre se protège en faisant jaillir des flammes de son dos. Ces flammes peuvent être violentes si le Pokémon est en colère. Cependant, s'il est fatigué, seules quelques flammèches vacillent laborieusement.",
+    "evolution": {
+      "next": [
+        [
+          "156",
+          "Level 14"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "0.5 m",
+      "poids": "7.9 kg",
+      "oeuf": [
+        "Terrestre"
+      ],
+      "ability": [
+        [
+          "Brasier",
+          "false"
+        ],
+        [
+          "Torche",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "image-oeuf": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\155Egg.png",
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\155.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\155.png"
+  },
+  {
+    "id": 156,
+    "name": {
+      "nom": "Feurisson"
+    },
+    "type": [
+      "Feu"
+    ],
+    "base": {
+      "HP": 58,
+      "Attack": 64,
+      "Defense": 58,
+      "Sp. Attack": 80,
+      "Sp. Defense": 65,
+      "Vitesse": 80
+    },
+    "description": "Feurisson garde ses ennemis à distance grâce à l'intensité de ses flammes et à des rafales d'air brûlant. Ce Pokémon utilise son incroyable agilité pour éviter les attaques, tout en enflammant ses ennemis.",
+    "evolution": {
+      "prev": [
+        "155",
+        "Level 14"
+      ],
+      "next": [
+        [
+          "157",
+          "Level 36"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "0.9 m",
+      "poids": "19 kg",
+      "oeuf": [
+        "Terrestre"
+      ],
+      "capacité": [
+        [
+          "Brasier",
+          "false"
+        ],
+        [
+          "Torche",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\156.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\156b.png"
+    },
+  {
+    "id": 157,
+    "name": {
+      "nom": "Typhlosion"
+    },
+    "type": [
+      "Feu"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Sp. Attack": 109,
+      "Sp. Defense": 85,
+      "Vitesse": 100
+    },
+    "description": "Typhlosion se cache derrière un chatoyant nuage de chaleur qu'il crée en attisant ses flammes intenses. Ce Pokémon peut générer des rafales explosives qui réduisent tout en cendres.",
+    "evolution": {
+      "prev": [
+        "156",
+        "Level 36"
+      ]
+    },
+    "profile": {
+      "hauteur": "1.7 m",
+      "poids": "79.5 kg",
+      "oeuf": [
+        "Terrestre"
+      ],
+      "capacité": [
+        [
+          "Brasier",
+          "false"
+        ],
+        [
+          " Torche",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\157.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\157b.png"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 158,
+    "name": {
+      "nom": "Kaiminus"
+    },
+    "type": [
+      "Eau"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 65,
+      "Defense": 64,
+      "Sp. Attack": 44,
+      "Sp. Defense": 48,
+      "Vitesse": 43
+    },
+    "description": "Malgré son tout petit corps, la mâchoire de Kaiminus est très puissante. Parfois, ce Pokémon mordille les gens pour jouer, sans se rendre compte que sa morsure peut gravement blesser quelqu'un.",
+    "evolution": {
+      "next": [
+        [
+          "159",
+          "Level 18"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "0.6 m",
+      "poids": "9.5 kg",
+      "oeuf": [
+        "Monstre",
+        "Aquatique 1"
+      ],
+      "capacité": [
+        [
+          "Torrent",
+          "false"
+        ],
+        [
+          "Sans Limite",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "sprite": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\158Egg.png",
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\158.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\158b.png"
+  },
+  {
+    "id": 159,
+    "name": {
+      "nom": "Crocrodil"
+    },
+    "type": [
+      "Eau"
+    ],
+    "base": {
+      "HP": 65,
+      "Attack": 80,
+      "Defense": 80,
+      "Sp. Attack": 59,
+      "Sp. Defense": 63,
+      "Speed": 58
+    },
+    "description": "Une fois que Crocrodil a refermé sa mâchoire sur son ennemi, il est impossible de le faire lâcher prise. Ses crocs sont recourbés comme des hameçons et ne peuvent pas être retirés une fois enfoncés.",
+    "evolution": {
+      "prev": [
+        "158",
+        "Level 18"
+      ],
+      "next": [
+        [
+          "160",
+          "Level 30"
+        ]
+      ]
+    },
+    "profile": {
+      "hauteur": "1.1 m",
+      "poids": "25 kg",
+      "oeuf": [
+        "Monstre",
+        "Aquatique 1"
+      ],
+      "capacité": [
+        [
+          "Torrent",
+          "false"
+        ],
+        [
+          "Sans Limite",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\159.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\159b.png"
+  },
+  {
+    "id": 160,
+    "name": {
+      "nom": "Aligatueur"
+    },
+    "type": [
+      "Eau"
+    ],
+    "base": {
+      "HP": 85,
+      "Attack": 105,
+      "Defense": 100,
+      "Sp. Attack": 79,
+      "Sp. Defense": 83,
+      "Vitesse": 78
+    },
+    "description": "Aligatueur impressionne ses ennemis en ouvrant son énorme gueule. Pendant les combats, il piétine le sol de ses puissantes pattes arrière avant de charger ses adversaires à pleine vitesse.",
+    "evolution": {
+      "prev": [
+        "159",
+        "Level 30"
+      ]
+    },
+    "profile": {
+      "hauteur": "2.3 m",
+      "poids": "88.8 kg",
+      "oeuf": [
+        "Monstre",
+        "Aquatique 1"
+      ],
+      "capacité": [
+        [
+          "Torrent",
+          "false"
+        ],
+        [
+          "Sans Limite",
+          "true"
+        ]
+      ]
+    },
+    "image": {},
+    "face": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\160.png",
+    "dos": "C:\\Users\\zahar\\OneDrive\\Bureau\\pokemon\\pokedex\\images\\Battlers\\160b.png"
+  }
+]
